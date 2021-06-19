@@ -1,6 +1,6 @@
 # CLONE NETFLIX #
 
-![image-20210618224616662](C:\Users\gabri\AppData\Roaming\Typora\typora-user-images\image-20210618224616662.png)
+![clone](https://github.com/GabrielMachioni/CloneNetflix/blob/master/clone.png)
 
 * Html 5;
 * Css 3;
