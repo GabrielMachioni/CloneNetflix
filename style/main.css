@@ -44,7 +44,7 @@ header nav a:hover{ /*hover = quando passa o mouse*/
 /* Filme peincipal */
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/capa-sda.jpg'); /*linear gradiente para fazer uma camada entre o texto e a imagem*/
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../img/capa-sda.jpg'); /*linear gradiente para fazer uma camada entre o texto e a imagem*/
 
     height: 475px; /* tamanho do box */
     background-size: cover; /*muda tamanho da imagem pra p tb do box*/
